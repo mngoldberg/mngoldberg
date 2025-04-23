@@ -29,6 +29,8 @@ PhD student studying reward-related neuroendocrine relationships across adolesce
 - Social reward and motivation
 - Statistical modeling & data visualization
 
+<div align="center">
+
 ## 🌍 Languages I Know
 
 **💻 Programming:**  
@@ -42,6 +44,10 @@ PhD student studying reward-related neuroendocrine relationships across adolesce
 ![English](https://img.shields.io/badge/lang-English-blue?style=flat-square)
 ![Spanish](https://img.shields.io/badge/lang-Spanish-orange?style=flat-square)
 ![French](https://img.shields.io/badge/lang-French-lightgrey?style=flat-square)
+
+</div>
+
+<div align="center">
 
 ## ✨ A little extra
 Outside the lab, I’m usually out running, biking, or swimming (no triathlons… yet). I speak English, some Spanish, and a bit of French.
