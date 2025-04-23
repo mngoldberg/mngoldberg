@@ -1,8 +1,13 @@
+<div align="center">
+
 # 👋 Hi, I’m Maddie!
 
-I'm a PhD student in Psychology at the University of Oregon, where I study how brain development, puberty, and hormones shape social motivation and reward processing during adolescence.
+PhD student studying reward-related neuroendocrine relationships across adolescence  
+🔬 Neuroscience | 📊 Stats modeling | 🌱 Longitudinal data  
 
-My work bridges developmental neuroscience and biobehavioral science, with a focus on advanced (often non-linear!) statistical modeling of longitudinal data.
+[🙋🏻‍♀️ Website](https://example.com](https://mngoldberg.github.io)) • [🦋 Bluesky](https://socialbrain.uoregon.edu) • [🏫 UO Psychology](https://psychology.uoregon.edu)
+
+</div>
 
 ## 🔬 What I use GitHub for:
 - Reproducible research & analysis pipelines  
