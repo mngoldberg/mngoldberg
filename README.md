@@ -9,6 +9,14 @@ PhD student studying reward-related neuroendocrine relationships across adolesce
 
 </div>
 
+<div align="center">
+
+### 👩🏻‍💻 Languages I Use Most
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mngoldberg&layout=compact&theme=gruvbox&langs_count=6)
+
+</div>
+
+
 ## 🔬 What I use GitHub for:
 - Reproducible research & analysis pipelines  
 - Sharing code and tools for modeling complex developmental data  
