@@ -29,6 +29,20 @@ PhD student studying reward-related neuroendocrine relationships across adolesce
 - Social reward and motivation
 - Statistical modeling & data visualization
 
+## 🌍 Languages I Know
+
+**💻 Programming:**  
+![R](https://img.shields.io/badge/code-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Shell](https://img.shields.io/badge/code-Shell-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![CSS](https://img.shields.io/badge/code-CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/code-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MATLAB](https://img.shields.io/badge/code-MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
+
+**🗣️ Spoken:**  
+![English](https://img.shields.io/badge/lang-English-blue?style=flat-square)
+![Spanish](https://img.shields.io/badge/lang-Spanish-orange?style=flat-square)
+![French](https://img.shields.io/badge/lang-French-lightgrey?style=flat-square)
+
 ## ✨ A little extra
 Outside the lab, I’m usually out running, biking, or swimming (no triathlons… yet). I speak English, some Spanish, and a bit of French.
 
