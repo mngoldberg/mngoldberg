@@ -21,12 +21,6 @@ PhD student studying reward-related neuroendocrine relationships across adolesce
 - Social reward and motivation
 - Statistical modeling & data visualization
 
-## 🌐 Elsewhere
-- [Personal website (coming soon!)](https://mngoldberg.github.io)  
-- [BlueSky](https://bsky.app/profile/maddiegoldberg.bsky.social)  
-- [DSN Lab]((https://uodsnlab.com))  
-- [University of Oregon](https://psychology.uoregon.edu)  
-
 ## ✨ A little extra
 Outside the lab, I’m usually out running, biking, or swimming (no triathlons… yet). I speak English, some Spanish, and a bit of French.
 
