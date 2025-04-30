@@ -5,7 +5,7 @@
 PhD student studying reward-related neuroendocrine relationships across adolescence  
 🔬 Neuroscience | 📊 Stats modeling | 🌱 Longitudinal data  
 
-[🙋🏻‍♀️ Website](https://example.com](https://mngoldberg.github.io)) • [🦋 Bluesky](https://socialbrain.uoregon.edu) • [🏫 UO Psychology](https://psychology.uoregon.edu)
+[🙋🏻‍♀️ Website](https://mngoldberg.github.io)) • [🦋 Bluesky](https://bsky.app/profile/maddiegoldberg.bsky.social) • [🏫 UO Psychology](https://psychology.uoregon.edu)
 
 </div>
 
