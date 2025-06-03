@@ -48,5 +48,5 @@ PhD student studying reward-related neuroendocrine relationships across adolesce
 <div align="center">
 
 ## ✨ A little extra
-Outside the lab, I’m usually out running, biking, or swimming (no triathlons… yet). I speak English, some Spanish, and a bit of French.
+Outside the lab, I’m usually out running, biking, or swimming (no triathlons… yet).
 
