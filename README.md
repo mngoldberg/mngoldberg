@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I’m Maddie!
+# Hi, I’m Maddie!
 
 PhD student studying reward-related neuroendocrine relationships across adolescence  
 🔬 Neuroscience | 📊 Stats modeling | 🌱 Longitudinal data  
